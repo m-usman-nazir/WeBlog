@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "A great site, which is highly useful and inspirational for people wanting to change their 9 to 5 lives for something that will allow them to live a little and spend more time with the family. The site is really simple, and something you could build yourself on WordPress in a matter of day, but the content is where this site excels. Podcasts, tools, tutorials and blog posts that target a specific niche is where this guy makes his money. His podcasts are really popular and when you have content that gets a lot of ears and eyes to it, then so will the advertising income. It’s the same with written content.\nIf you have a popular page that get’s tens of thousands of views a month, then potentially you can sell ad space on those pages for hundreds of dollars a month, if not more.",
+      "author": "Daniyal",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "One of the more popular frugal blogs in the UK, Miss Thrifty is targeting young mums with her money saving, frugal tips and articles. And rightly so! The market is massive and she’s meeting a need for this type of information. Young mums aren’t exactly rolling in cash. They may have had to give up work and are now relying on just one wage coming in, so the need to be more frugal with everyday living is a must.\nThe great thing about this blog is the conversational tone and the real person behind the brand. I think it’s inspiring to other mums to see someone like them making such a difference in other people’s lives by creating amazingly useful content that is 100% actionable. Also it may inspire mums to set up their own blog and to write about their experiences as a mother and a wife in the 21st century.",
+      "author": "Wahab",
+      "id": 2
+    },
+    {
+      "title": "Peanut Soba Noodle",
+      "body": "Soba Noodle Salad It’s (mildly) spicy It’s peanutty and noodley. It’s a friend to all vegetables. It’s salad that’s… not really a salad.It’s got big punchy flavor from fresh garlic and lime juice, and it’s extremely filling thanks to that creamy peanut sauce and the tangled pile of carbs known as soba noodles, and it is also colorful and crunchy and fresh, so yes, it is my favorite category of food.",
+      "author": "Abdullah",
+      "id": 3
+    },
+    {
+      "title": "Balanced Bites",
+      "body": "A practical combo of online food shop and blog, this one gives you recipes, freshly prepared meals delivered directly to your door, and a blend of spices for even more flavor – all of them, you’ve guessed it, balanced. Balanced Bites acts like your own professional nutritionist, the virtual version, helping especially the busiest of us, those who don’t have any time left for cooking but who won’t compromise on the whole foods and eating healthy front either.Still, if you find yourself in the kitchen willing to prepare a good balanced meal, the recipes are also provided, ready to impress the cautious foodie in you. And because life is more than food (go figure!), Diane Sanfilippo, the author, invites you to tackle life’s latest in her Diane: Direct.",
+      "author": "Ali",
+      "id": 4
+    },
+    {
+      "title": "xyz",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "author": "Abdullah",
+      "id": 6
+    },
+    {
+      "title": "abc",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "Wahab",
+      "id": 7
+    }
+  ]
+}
